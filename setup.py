@@ -5,7 +5,7 @@ setup(name='plip',
       description='fully automated protein-ligand interaction profiler',
       packages=find_packages(),
       install_requires=[
-          'openbabel',
+      #    'openbabel',
           'numpy',
           'lxml']
       )
