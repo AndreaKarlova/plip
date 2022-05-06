@@ -1,4 +1,4 @@
-import plip.basic
-import plip.exchange
-import plip.structure
-import plip.visualization
+import  . import basic
+import . import exchange
+import . import structure
+import . import visualization
