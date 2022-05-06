@@ -48,10 +48,6 @@ This will clone into the folder `plip` in your current working directory.
 
 Use the following command to make the PLIP command line accessible in your bash via the command alias `plip`. Pay attention to change the absolute path to the location where you cloned PLIP in the previous step.
 
-```bash
-$ alias plip='python <absolute path>/plip/plipcmd.py'
-```
-
 ## Analyze a PDB structure with PLIP
 
 ### Single Structures
